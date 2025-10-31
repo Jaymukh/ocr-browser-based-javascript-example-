@@ -15,7 +15,7 @@ Brouwer Case Support: (If you use a specific font or styling for "Brouwer Case,"
 Getting Started
 1. Clone the repository
 bash
-git clone https://github.com/jaymukh/brouwer-cased-ocr-tesseractjs-example.git
+git clone https://github.com/Jaymukh/ocr-browser-based-javascript-example-.git
 cd brouwer-cased-ocr-tesseractjs-example
 2. Install dependencies (React project)
 bash
