@@ -16,11 +16,10 @@ Getting Started
 1. Clone the repository
 bash
 git clone https://github.com/Jaymukh/ocr-browser-based-javascript-example-.git
-cd brouwer-cased-ocr-tesseractjs-example
-2. Install dependencies (React project)
+3. Install dependencies (React project)
 bash
 npm install
-3. Run the example
+4. Run the example
 Open index.html directly in your browser or use npm start if using a web framework.
 
 Usage
