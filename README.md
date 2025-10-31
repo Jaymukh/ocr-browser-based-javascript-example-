@@ -20,7 +20,7 @@ git clone https://github.com/Jaymukh/ocr-browser-based-javascript-example-.git
 bash
 npm install
 4. Run the example
-Open index.html directly in your browser or use npm start if using a web framework.
+npm start (This will launch the app on http://localhost:3000 in your default browser)
 
 Usage
 Upload an image file through the provided web interface.
